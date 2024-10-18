@@ -3,6 +3,6 @@
 ## This is our lecture.
 
 Topics:
-*MArkdown
+* Markdown
 * git
 * something else
